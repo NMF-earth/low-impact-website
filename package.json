@@ -1,0 +1,23 @@
+{
+  "name": "low-impact-website",
+  "version": "0.0.1",
+  "description": "A curated showcase of low impact websites",
+  "scripts": {
+    "clean": "rimraf dist",
+    "start": "npm run serve",
+    "serve": "npm run clean && cross-env NODE_ENV=development eleventy --serve",
+    "watch": "npm run clean && cross-env NODE_ENV=development eleventy --watch",
+    "build": "npm run clean && cross-env NODE_ENV=production eleventy",
+    "debug": "DEBUG=Eleventy* npm run build"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@tailwindcss/typography": "^0.3.1",
+    "cross-env": "^7.0.3",
+    "eleventy-plugin-tailwindcss": "^0.3.0",
+    "html-minifier": "^4.0.0",
+    "luxon": "^1.24.1",
+    "rimraf": "^3.0.2",
+    "terser": "^4.8.0"
+  }
+}

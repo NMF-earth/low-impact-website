@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Categories",
+    "url": "/categories"
+  },
+  {
+    "label": "Checklist",
+    "url": "/checklist"
+  },
+  {
+    "label": "About",
+    "url": "/about"
+  }
+]
