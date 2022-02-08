@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url><loc>https://low-impact.website/--roots-digital-studio/</loc></url>
+    <url><loc>https://low-impact.website/--jeudi-matin/</loc></url>
+    <url><loc>https://low-impact.website/--eco-conception-numerique/</loc></url>
     <url><loc>https://low-impact.website/--low-tech-magazine/</loc></url>
     <url><loc>https://low-impact.website/--organic-basics/</loc></url>
     <url><loc>https://low-impact.website/--formafantasma/</loc></url>
     <url><loc>https://low-impact.website/--low-tech-lab/</loc></url>
     <url><loc>https://low-impact.website/404.html</loc></url>
-    <url><loc>https://low-impact.website/about/</loc></url>
-    <url><loc>https://low-impact.website/categories/</loc></url>
-    <url><loc>https://low-impact.website/checklist/</loc></url>
     <url><loc>https://low-impact.website/</loc></url>
+    <url><loc>https://low-impact.website/categories/</loc></url>
     <url><loc>https://low-impact.website/search/</loc></url>
+    <url><loc>https://low-impact.website/checklist/</loc></url>
+    <url><loc>https://low-impact.website/about/</loc></url>
     
 </urlset>
